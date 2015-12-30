@@ -4,7 +4,7 @@ An Android simple LineChart
 =======
 博客讲解地址http://blog.csdn.net/wingichoy/article/details/50434634
 ###Perview
-![image](https://github.com/githubwing/CirclePercentView/raw/master/perview.jpg)
+![image](https://github.com/githubwing/SimpleLineChart/raw/master/perview.jpg)
 ###How To Use
 Add a SimpleLineChart into your XML.
 
